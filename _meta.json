@@ -1,0 +1,23 @@
+{
+  "name": "baozi-smart-agent",
+  "version": "4.1",
+  "description": "包子智能代理完整版 v4.1 - 融合精英长期记忆+主动代理+清洁代码规范+自我改进+自动修复。核心概念已整合，参考资料作为附录。",
+  "author": "baozi",
+  "keywords": ["smart-agent", "memory", "proactive", "wal", "clean-code", "self-improvement", "self-healing"],
+  "location": "workspace/baozi-agent",
+  "integratedSkills": [
+    "clean-code-review",
+    "proactive-agent",
+    "self-improving-agent",
+    "openclaw-self-healing"
+  ],
+  "features": [
+    "智能记忆系统 v2.0",
+    "WAL Protocol",
+    "Working Buffer",
+    "智能联动脚本 smart-link.js",
+    "自动触发条件",
+    "Clean Code 规范"
+  ],
+  "note": "放在 workspace/ 目录，不是 skills/ 目录"
+}
